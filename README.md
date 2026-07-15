@@ -37,5 +37,4 @@ This repository contains the work completed during my 4-week Summer Internship i
 - Performed exploratory data analysis using Pandas.
 - Created meaningful visualizations using Matplotlib.
 - Gained practical experience in analyzing real-world datasets and presenting insights.
-
 ---
